@@ -1,2 +1,2 @@
-# michniks
-A place where all of my projects will be
+# Samuel Michnik
+Under Construction
