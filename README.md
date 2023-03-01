@@ -1,4 +1,5 @@
 # Samuel Michnik
-## This is where my professional projects will be
+### This is where my professional projects will be
 Under Construction
-\nComing Soon: DATA SCIENCE PROJECT
+###
+Coming Soon: DATA SCIENCE PROJECT
