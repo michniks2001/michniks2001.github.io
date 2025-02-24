@@ -1,33 +1,35 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Samuel Michnik
+## Software Developer | Web Technologies Specialist
 
+Hi, I'm Samuel Michnik, a passionate software developer specializing in web technologies. I create innovative solutions that combine modern web frameworks with AI to solve real-world problems.
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+### Featured Projects
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+#### ClarityAI
+A sophisticated task management platform powered by artificial intelligence.
+- Built with Next.js and OpenAI API
+- Secure payment processing via Stripe integration
+- Deployed and optimized on Vercel
+- Smart task organization using AI algorithms
 
-(* = Not included)
+#### MoodBot - 🏆 Hackathon 2nd Place Winner
+An intelligent Discord bot that promotes positive online communities.
+- Smart message moderation system
+- Automatic toxic content detection and replacement
+- Conflict de-escalation capabilities
+- Award-winning project showcasing practical AI applications
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+#### Ingredibud
+Your personal AI cooking assistant that makes meal planning effortless.
+- Customized recipe recommendations
+- Support for various dietary restrictions
+- Flexible cuisine and ingredient filtering
+- Intelligent ingredient substitution suggestions
 
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+### Technical Expertise
+- **Frontend Development**: Next.js, React
+- **AI Integration**: OpenAI API
+- **Cloud Deployment**: Vercel
+- **Payment Systems**: Stripe
+- **Bot Development**: Discord API
+- **Full Stack Development**: Modern web technologies
