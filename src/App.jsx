@@ -181,6 +181,7 @@ function App() {
                     boxSize={6} 
                     cursor="pointer" 
                     color={colorMode === 'light' ? 'white' : 'gray.300'}
+                    href="https://github.com/michniks2001"
                   />
                 </MotionBox>
                 <MotionBox whileHover={{ scale: 1.2 }} whileTap={{ scale: 0.9 }}>
@@ -189,6 +190,7 @@ function App() {
                     boxSize={6} 
                     cursor="pointer"
                     color={colorMode === 'light' ? 'white' : 'gray.300'}
+                    href="https://linkedin.com/in/samuel-michnik"
                   />
                 </MotionBox>
               </HStack>
