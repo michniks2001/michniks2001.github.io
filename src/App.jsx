@@ -4,6 +4,8 @@ import { SunIcon, MoonIcon } from '@chakra-ui/icons'
 import { FaGithub, FaLinkedin, FaReact, FaNode, FaStripe, FaDiscord } from 'react-icons/fa'
 import { SiNextdotjs, SiOpenai, SiVercel } from 'react-icons/si'
 
+//Hello
+
 const MotionBox = motion(Box)
 const MotionFlex = motion(Flex)
 
